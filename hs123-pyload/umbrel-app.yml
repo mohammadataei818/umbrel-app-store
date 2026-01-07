@@ -5,7 +5,7 @@ tagline: Download Manager
 icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-6dxeJwyBOy6NztPCatVdWseorSjqmlDbPQ
 category: HOMELABBING
 version: "0.5.0"
-port: 4000
+port: 8996
 description: >-
   Add your app's description here.
   You can also add newlines!

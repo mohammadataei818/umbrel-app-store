@@ -1,6 +1,7 @@
 manifestVersion: 1
 id: hs123-pyload
 name: Pyload
+external: true
 tagline: Download Manager
 icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-6dxeJwyBOy6NztPCatVdWseorSjqmlDbPQ
 category: HOMELABBING

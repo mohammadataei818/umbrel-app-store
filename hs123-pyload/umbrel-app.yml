@@ -1,26 +1,32 @@
 manifestVersion: 1
 id: hs123-pyload
-name: HEllo WoRlD
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
-category: Development
-version: "1.0.0"
+name: Pyload
+tagline: Download Manager
+icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-6dxeJwyBOy6NztPCatVdWseorSjqmlDbPQ
+category: HOMELABBING
+version: "0.5.0"
 port: 4000
 description: >-
   Add your app's description here.
   You can also add newlines!
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: Pyload
+website: https://pyload.net
+submitter: Pyload
+submission: https//gitgud-example.io
+repo: https://github.com/pyload/pyload
+support: https://github.com/pyload/pyload/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://camo.githubusercontent.com/7aefd3e0da34e1d0bf509e7888c3c034fb06e56d49a6895db31769cd4a34b192/687474703a2f2f7765622e617263686976652e6f72672f7765622f3230313530393039313534353432696d5f2f687474703a2f2f70796c6f61642e6f72672f5f6d656469612f77656269662e706e67
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+⚠️ End of Life: Python 2 Support Dropped & Branch Deprecated
+Python 2.x has been deprecated for over 6 years, yet pyLoad continued to support it with v0.4.x until now. It's time to move on.
+
+This branch has now reached end-of-life.
+There will be no further updates, bug fixes, security patches, or new features here.
+
+Why This Change?
+Python 2 reached official end-of-life on January 1, 2020.
+Continuing support held back modern improvements and compatibility with current Python ecosystems.
 dependencies: []
 path: ""
 defaultUsername: ""

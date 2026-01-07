@@ -18,15 +18,15 @@ support: https://github.com/pyload/pyload/issues
 gallery:
   - https://camo.githubusercontent.com/7aefd3e0da34e1d0bf509e7888c3c034fb06e56d49a6895db31769cd4a34b192/687474703a2f2f7765622e617263686976652e6f72672f7765622f3230313530393039313534353432696d5f2f687474703a2f2f70796c6f61642e6f72672f5f6d656469612f77656269662e706e67
 releaseNotes: >-
-⚠️ End of Life: Python 2 Support Dropped & Branch Deprecated
-Python 2.x has been deprecated for over 6 years, yet pyLoad continued to support it with v0.4.x until now. It's time to move on.
+End of Life: Python 2 Support Dropped & Branch Deprecated
+ Python 2.x has been deprecated for over 6 years, yet pyLoad continued to support it with v0.4.x until now. It's time to move on.
 
-This branch has now reached end-of-life.
-There will be no further updates, bug fixes, security patches, or new features here.
+ This branch has now reached end-of-life.
+ There will be no further updates, bug fixes, security patches, or new features here.
 
-Why This Change?
-Python 2 reached official end-of-life on January 1, 2020.
-Continuing support held back modern improvements and compatibility with current Python ecosystems.
+ Why This Change?
+ Python 2 reached official end-of-life on January 1, 2020.
+ Continuing support held back modern improvements and compatibility with current Python ecosystems.
 dependencies: []
 path: ""
 defaultUsername: ""

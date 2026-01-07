@@ -6,9 +6,7 @@ icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-6dxeJwyBOy6NztPCat
 category: HOMELABBING
 version: "0.5.0"
 port: 8996
-description: >-
-  Add your app's description here.
-  You can also add newlines!
+description: Web Download Manager HTTP
 developer: Pyload
 website: https://pyload.net
 submitter: Pyload
